@@ -20,7 +20,7 @@ A simple web application that calculates a person's age based on their birth dat
 
 - `index.html` - Main HTML file with the calculator interface
 - `index.js` - JavaScript containing the age calculation logic
-- `index.css` - Stylesheet for the calculator (if present)
+- `index.css` - Stylesheet for the calculator
 - `README.md` - This documentation file
 
 ## Technical Details
@@ -34,9 +34,9 @@ The calculator uses JavaScript's Date object to:
 
 ## Screenshot
 
-![Age Calculator Screenshot](Screenshot.png)
+<img src="Screenshot .png" alt="Age Calculator Screenshot" width="600">
 
 ## Requirements
 
 - Modern web browser (Chrome, Firefox, Edge, Safari)
-- No additional dependencies required
+- No dependencies required
